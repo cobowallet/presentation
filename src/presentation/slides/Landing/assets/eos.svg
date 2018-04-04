@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="98px" viewBox="0 0 140 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>eth</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-32.6%" y="-60.0%" width="165.2%" height="220.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="83.1679436%" x2="50%" y2="3.06429773%" id="linearGradient-2">
+            <stop stop-color="#4A4684" offset="0%"></stop>
+            <stop stop-color="#1A1842" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.046875%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.779834692" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.87426404" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-636.000000, -775.000000)">
+        <g id="1" transform="translate(-78.000000, 0.000000)">
+            <g id="头图" transform="translate(659.000000, 138.000000)">
+                <g id="eth" transform="translate(79.000000, 661.000000)">
+                    <ellipse id="Oval-11" fill="#9C96FF" opacity="0.5" filter="url(#filter-1)" cx="46" cy="25" rx="46" ry="25"></ellipse>
+                    <path d="M46,56 C71.4050985,56 92,44.8071187 92,31 C92,29.931792 92,28.2651254 92,26 C76.304563,12.6666667 60.9712297,6 46,6 C31.5430303,6 16.2096969,12.6666667 0,26 C0,27.9856363 0,29.6523029 0,31 C0,44.8071187 20.5949015,56 46,56 Z" id="Oval-11" fill="#1E1C46"></path>
+                    <ellipse id="Oval-11" fill="url(#linearGradient-2)" cx="46" cy="25" rx="46" ry="25"></ellipse>
+                    <polyline id="Shape" stroke="url(#linearGradient-3)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="35.8887132 18.5247801 45.9924123 38.1200008 31 32.3183628 35.8887132 18.5247801 45.9924123 10 45.9924123 15.9791196 31 32.3183628 61 32.3183628 46.0075877 15.9791196 46.0075877 10 56.1112868 18.5247801 61 32.3183628 46.0075877 38.1200008 56.1112868 18.5247801"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

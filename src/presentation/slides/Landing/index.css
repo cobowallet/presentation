@@ -1,0 +1,11 @@
+.hover-translate {
+  transition: transform 0.5s ease;
+}
+
+.hover-translate:hover {
+  transform: translateX(-15px);
+}
+
+.spectacle-content {
+  padding: 0 !important;
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="98px" viewBox="0 0 140 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ltc</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="86.4409722%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E0E4FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-32.6%" y="-60.0%" width="165.2%" height="220.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="97.4469866%" x2="50%" y2="1.67610013%" id="linearGradient-3">
+            <stop stop-color="#3C3772" stop-opacity="0.786571558" offset="0%"></stop>
+            <stop stop-color="#1A174E" stop-opacity="0.834352355" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-4" cx="46" cy="25" rx="46" ry="25"></ellipse>
+        <linearGradient x1="50%" y1="99.4937819%" x2="50%" y2="-3.33066907e-14%" id="linearGradient-5">
+            <stop stop-color="#5F667A" offset="0%"></stop>
+            <stop stop-color="#2F323A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-590.000000, -793.000000)">
+        <g id="1" transform="translate(-78.000000, 0.000000)">
+            <g id="头图" transform="translate(659.000000, 138.000000)">
+                <g id="ltc" transform="translate(33.000000, 679.000000)">
+                    <ellipse id="Oval-11" fill="url(#linearGradient-1)" opacity="0.5" filter="url(#filter-2)" cx="46" cy="25" rx="46" ry="25"></ellipse>
+                    <path d="M46,56 C71.4050985,56 92,44.8071187 92,31 C92,29.931792 92,28.2651254 92,26 C76.304563,12.6666667 60.9712297,6 46,6 C31.5430303,6 16.2096969,12.6666667 0,26 C0,27.9856363 0,29.6523029 0,31 C0,44.8071187 20.5949015,56 46,56 Z" id="Oval-11" fill="#C0B1DC"></path>
+                    <g id="Oval-11">
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <ellipse stroke="url(#linearGradient-3)" stroke-width="3" cx="46" cy="25" rx="44.5" ry="23.5"></ellipse>
+                    </g>
+                    <path d="M51.3100055,18.3981925 L58,17.4705882 L54.5,23.1323529 L49.7791143,23.7869295 L49,26.5294118 L64,26.5294118 L60,33 L34,33 L36.9835122,25.5611097 L30,26.5294118 L33.5,20.8676471 L39.1818896,20.079822 L42.8235294,11 L53.4117647,11 L51.3100055,18.3981925 Z" id="Path-2" fill="url(#linearGradient-5)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 321 375" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.8%" y="-361.4%" width="111.7%" height="822.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="12.0479911" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-5.8%" y="-361.4%" width="111.7%" height="822.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="12.0479911" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-5.8%" y="-361.4%" width="111.7%" height="822.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="12.0479911" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-5.8%" y="-361.4%" width="111.7%" height="822.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="12.0479911" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-5.8%" y="-361.4%" width="111.7%" height="822.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="12.0479911" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-5.8%" y="-361.4%" width="111.7%" height="822.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="12.0479911" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-5.2%" y="-320.8%" width="110.3%" height="741.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="10.6947545" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <circle id="path-8" cx="25" cy="25" r="25"></circle>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1119.000000, -1711.000000)">
+        <g id="Group-8" transform="translate(0.000000, 1570.000000)">
+            <g id="Group-4" transform="translate(1383.508189, 405.508189) scale(-1, 1) rotate(-45.000000) translate(-1383.508189, -405.508189) translate(1045.508189, 376.508189)">
+                <g id="Group-3" transform="translate(0.000000, 4.000000)">
+                    <polygon id="Rectangle" fill="#4000FF" filter="url(#filter-1)" points="26.2893219 2.84217094e-14 646.289322 3.20299343e-14 646.289322 10 26.2893219 10"></polygon>
+                    <polygon id="Rectangle" filter="url(#filter-2)" points="0.0969337259 34.8492424 620.096934 34.8492424 620.096934 44.8492424 0.0969337259 44.8492424"></polygon>
+                    <polygon id="Rectangle" fill="#4000FF" filter="url(#filter-3)" points="26.2893219 40 646.289322 40 646.289322 50 26.2893219 50"></polygon>
+                    <polygon id="Rectangle" fill="#1777FF" filter="url(#filter-4)" points="26.2893219 10 646.289322 10 646.289322 20 26.2893219 20"></polygon>
+                    <rect id="Rectangle" fill="#88F5FF" filter="url(#filter-5)" x="26.2893219" y="20" width="620" height="10"></rect>
+                    <polygon id="Rectangle" fill="#1777FF" filter="url(#filter-6)" points="26.2893219 30 646.289322 30 646.289322 40 26.2893219 40"></polygon>
+                </g>
+                <g id="Group-3" transform="translate(0.000000, 4.000000)">
+                    <polygon id="Rectangle" fill="#4000FF" points="26.2893219 2.84217094e-14 646.289322 3.20299343e-14 646.289322 10 26.2893219 10"></polygon>
+                    <polygon id="Rectangle" filter="url(#filter-7)" points="0.0969337259 34.8492424 620.096934 34.8492424 620.096934 44.8492424 0.0969337259 44.8492424"></polygon>
+                    <polygon id="Rectangle" fill="#4000FF" points="26.2893219 40 646.289322 40 646.289322 50 26.2893219 50"></polygon>
+                    <polygon id="Rectangle" fill="#1777FF" points="26.2893219 10 646.289322 10 646.289322 20 26.2893219 20"></polygon>
+                    <rect id="Rectangle" fill="#88F5FF" x="26.2893219" y="20" width="620" height="10"></rect>
+                    <polygon id="Rectangle" fill="#1777FF" points="26.2893219 30 646.289322 30 646.289322 40 26.2893219 40"></polygon>
+                </g>
+                <g id="btc-logo" transform="translate(647.000000, 29.000000) scale(1, -1) rotate(80.000000) translate(-647.000000, -29.000000) translate(622.000000, 4.000000)">
+                    <g id="Oval-3">
+                        <use fill="#FF702D" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        <circle stroke="#1D1163" stroke-width="3" cx="25" cy="25" r="26.5"></circle>
+                    </g>
+                    <path d="M33.6473589,22.4439637 C34.0318447,19.7028472 32.0750112,18.2292879 29.3993039,17.2462713 L30.267264,13.5330821 L28.1480652,12.9697949 L27.3030414,16.5851331 C26.7459294,16.437069 26.1737276,16.2973738 25.6051473,16.1589661 L26.4562069,12.5198089 L24.3382153,11.9565217 L23.4696516,15.6684234 C23.0085101,15.5564097 22.5558188,15.4456836 22.1164065,15.3291636 L22.1188208,15.317576 L19.1962459,14.539274 L18.6324944,16.953362 C18.6324944,16.953362 20.2048421,17.3376848 20.1716447,17.3615038 C21.0299474,17.5900374 21.1850696,18.1958126 21.1591153,18.6760551 C18.7809771,28.8480562 21.1591153,18.6760551 18.7809771,28.8480562 C18.6759527,29.1261592 18.4097702,29.5433136 17.8098034,29.3849494 C17.830929,29.417781 16.2694458,28.9748763 16.2694458,28.9748763 L15.2173913,31.5621349 L17.9751866,32.2953739 C18.4882367,32.4324941 18.9910259,32.5760518 19.4859683,32.7112407 L18.6089544,36.4669179 L20.7257389,37.0302051 L21.5943025,33.3144409 C22.1725402,33.4818176 22.7338774,33.6363193 23.2831428,33.7818083 L22.4175971,37.4801911 L24.5367959,38.0434783 L25.4138098,34.2948825 C29.0274934,35.0242589 31.7448483,34.730062 32.8886483,31.244119 C33.8103277,28.4373394 32.8427756,26.8182911 30.9414722,25.7625299 C32.3261039,25.4219826 33.3691046,24.4505536 33.6473589,22.4439637 Z M28.8053729,29.6855838 C28.1504795,32.4923634 23.7195372,30.9750287 22.2829969,30.5945684 L23.4467153,25.6189722 C24.8832556,26.0013637 29.4898421,26.7584217 28.8053729,29.6855838 Z M29.4608699,22.403407 C28.8633174,24.9565464 25.1753924,23.6593765 23.9790802,23.3413606 L25.0341527,18.8286255 C26.2304649,19.1466414 30.0831695,19.7401851 29.4608699,22.403407 Z" id="symbol" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

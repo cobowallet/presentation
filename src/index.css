@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+@font-face {
+  font-family: 'Din';
+  src: url('./fonts/din_regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'DinBold';
+  src: url('./fonts/din_bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'DinLight';
+  src: url('./fonts/din_light.ttf') format('truetype');
+}

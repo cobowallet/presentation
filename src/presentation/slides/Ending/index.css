@@ -1,0 +1,8 @@
+.lines > path {
+  fill: #ffffff;
+}
+
+.lines {
+  border: none;
+  overflow: hidden;
+}

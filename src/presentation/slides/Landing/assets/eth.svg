@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="98px" viewBox="0 0 140 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>eth</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="86.4409722%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E0E4FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-32.6%" y="-60.0%" width="165.2%" height="220.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-875.000000, -805.000000)">
+        <g id="1" transform="translate(-78.000000, 0.000000)">
+            <g id="头图" transform="translate(659.000000, 138.000000)">
+                <g id="eth-dog" transform="translate(318.000000, 663.000000)">
+                    <g id="eth" transform="translate(0.000000, 28.000000)">
+                        <ellipse id="Oval-11" fill="url(#linearGradient-1)" opacity="0.5" filter="url(#filter-2)" cx="46" cy="25" rx="46" ry="25"></ellipse>
+                        <path d="M46,56 C71.4050985,56 92,44.8071187 92,31 C92,29.931792 92,28.2651254 92,26 C76.304563,12.6666667 60.9712297,6 46,6 C31.5430303,6 16.2096969,12.6666667 0,26 C0,27.9856363 0,29.6523029 0,31 C0,44.8071187 20.5949015,56 46,56 Z" id="Oval-11" fill="#C0B1DC"></path>
+                        <ellipse id="Oval-11" fill="url(#linearGradient-1)" cx="46" cy="25" rx="46" ry="25"></ellipse>
+                        <g id="ethereum" transform="translate(30.000000, 8.000000)" fill="#010101" fill-rule="nonzero">
+                            <g id="Group" opacity="0.6" transform="translate(0.000000, 12.088889)">
+                                <polygon id="Shape" points="16 0.0158024691 0.0376470588 4.58666667 16 10.5244444 31.9560784 4.58666667"></polygon>
+                            </g>
+                            <g id="Group" opacity="0.45">
+                                <polygon id="Shape" opacity="0.449999988" points="0.0376470588 16.6755556 16 22.6133333 16 0"></polygon>
+                            </g>
+                            <g id="Group" opacity="0.8" transform="translate(16.000000, 0.000000)">
+                                <polygon id="Shape" opacity="0.800000012" points="0 0 0 22.6133333 15.9560784 16.6755556"></polygon>
+                            </g>
+                            <g id="Group" opacity="0.45" transform="translate(0.000000, 18.567901)">
+                                <polygon id="Shape" opacity="0.449999988" points="0.0376470588 0.0118518519 16 14.1708642 16 5.94962963"></polygon>
+                            </g>
+                            <g id="Group" opacity="0.8" transform="translate(16.000000, 18.567901)">
+                                <polygon id="Shape" opacity="0.800000012" points="0 5.94962963 0 14.1708642 15.9686275 0.0118518519"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
