@@ -5,6 +5,7 @@ import Landing from './slides/Landing';
 import Ending from './slides/Ending';
 import TemplateOne from './slides/TemplateOne';
 import TemplateTwo from './slides/TemplateTwo';
+import TemplateThree from './slides/TemplateThree';
 
 const theme = createTheme(
   {
@@ -54,6 +55,16 @@ export default class Presentation extends React.Component {
               <ListItem>Item 4</ListItem>
             </List>
           </TemplateTwo>
+        </Slide>
+        <Slide>
+          <TemplateThree title={'Cobo Wallet Is Awesome'}>
+            <List>
+              <ListItem>Item 1</ListItem>
+              <ListItem>Item 2</ListItem>
+              <ListItem>Item 3</ListItem>
+              <ListItem>Item 4</ListItem>
+            </List>
+          </TemplateThree>
         </Slide>
         <Slide transition={['fade']} bgColor="tertiary">
           <Ending />
